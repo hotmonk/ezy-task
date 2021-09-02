@@ -34,6 +34,7 @@ const CommentsBody= styled.div`
     text-align:left;
 `;
 
+//this page is more of styling work, have rendered all the required details as neatly as I could
 function Article({data, comments, author}){
     let commentsbody=null;
 
